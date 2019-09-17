@@ -22,7 +22,9 @@ git commit -m "comentarios"
 git reset commit_que_queremos regresar *los ultimos cambios del archivo se quedan ahi*
 gir reset commitquequeremos --hard *regresa completamente todos los archivos a como estaban borrando lo que se aya agregado despues de ese commit*
 git reset commit --soft 
-11.-//
+11.-/regresar un archivo a un commit/
+git checkout + id del commit archivo que queremos
+*y si queremos regresar a como estab todo * git checkout master *sin darle commit o agregarlo a staying*
 
 
 
