@@ -29,6 +29,13 @@ git checkout + id del commit archivo que queremos
 
 
 
+12./crear y cambiar de una rama a otra/
+git branch nombreRama *crea rama*
+git checkout nombreRama *cambia de cabecera*
+
+
+
+
 
 
 
