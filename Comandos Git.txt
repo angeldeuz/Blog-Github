@@ -18,7 +18,11 @@ el primer commit seria el original y el segundo el que se modifico y asi ver los
 git diff commitViejo commitNuevo
 9.-/dar commit /
 git commit -m "comentarios"
-
+10.-/Regresar a un commit anterior
+git reset commit_que_queremos regresar *los ultimos cambios del archivo se quedan ahi*
+gir reset commitquequeremos --hard *regresa completamente todos los archivos a como estaban borrando lo que se aya agregado despues de ese commit*
+git reset commit --soft 
+11.-//
 
 
 
