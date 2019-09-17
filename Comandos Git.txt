@@ -1,0 +1,40 @@
+gi1.-/Agregar Carpeta a git/
+git init
+2.-/ver el estatus de los archivos/ 
+git status
+3.-/Agregar archivo para poder darle commit/
+git add nombreArchivo
+git add . /para todos los archivos/
+4.-/quitar el add a un archivo/
+git rm --cached nombrearchivo
+5.-/ver contenido de un archivo/
+cat nombreArchivo
+6.-/Ver la historia de un archivo o los commits/
+git log nombreArchivo
+7.-/comando para ver los cambios que se realizaron a un archivo/
+git show nombreArchivo
+8.-/comparar dos versiones y ver cuales fueron los cambio 
+el primer commit seria el original y el segundo el que se modifico y asi ver los cambios que se realizaron de la version vieja a la nueva/
+git diff commitViejo commitNuevo
+9.-/dar commit /
+git commit -m "comentarios"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+54./mandar mensaje del commit forzado cuando no lo ponemos/
+esc + shif + zz
+55.-/Ver configuracion de git/
+git confing --list
