@@ -1,3 +1,4 @@
+decir que si a github pantalla vim :qa! y enter *importante*
 gi1.-/Agregar Carpeta a git/
 git init
 2.-/ver el estatus de los archivos/ 
