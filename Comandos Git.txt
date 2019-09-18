@@ -33,6 +33,18 @@ git checkout + id del commit archivo que queremos
 git branch nombreRama *crea rama*
 git checkout nombreRama *cambia de cabecera*
 
+Parte de github
+13.-/Agregar origin a mi repositorio de github/
+git remote add origin linkdeguthub del repositorio
+git remote -v ver el origin a cual repositorio apunta
+
+14./traer la version del repositorio remoto y hacer merge para crear un commit con los archivos de ambas partes. podemos usar git fetch y git merge o solo el git pull con el flag -allow-unrealated-histories
+git pull origin master -allow-unrealeted=histories
+
+15./ahoria si podemos hacer git push para guardar los cambios de nuestro respositorio local en github/
+*manda a esta url mi rama master*
+git push origin master 
+
 
 
 
